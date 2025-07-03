@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to Heidi L's data analysis project portfolio! 👋
+These are some projects that I have worked on to demonstrate my skills to potential employers. 
+### 1. [Data Cleaning with Python](https://mcfeenix.github.io/Data-Cleaning-with-Python/)
+### [Exploratory Data Analysis with Python]
 
 <!--
 **Mcfeenix/Mcfeenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
