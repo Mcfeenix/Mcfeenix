@@ -1,5 +1,4 @@
-## Welcome to Heidi L's data analysis project portfolio! 👋
-These are some projects that I have worked on to demonstrate my skills to potential employers. 
+### These are some of the data analysis projects that I have worked on to demonstrate my skills to potential employers. Please explore, and I hope to hear from you soon!
 ### 1. [Data Cleaning with Python](https://mcfeenix.github.io/Data-Cleaning-with-Python/)
 ### [Exploratory Data Analysis with Python]
 
