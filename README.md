@@ -1,6 +1,6 @@
 ### These are some of the data analysis projects that I have worked on to demonstrate my skills to potential employers. Please explore, and I hope to hear from you soon!
 ### 1. [Data Cleaning with Python](https://mcfeenix.github.io/Data-Cleaning-with-Python/)
-### [Exploratory Data Analysis with Python]
+### 2. [Exploratory Data Analysis with Python](https://mcfeenix.github.io/Exploratory-Data-Analysis-with-Python/)
 
 <!--
 **Mcfeenix/Mcfeenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
