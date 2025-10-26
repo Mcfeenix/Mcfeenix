@@ -2,6 +2,7 @@
 ### 1. [Data Cleaning with Python](https://mcfeenix.github.io/Data-Cleaning-with-Python/)
 ### 2. [Exploratory Data Analysis with Python](https://mcfeenix.github.io/Exploratory-Data-Analysis-with-Python/)
 ### 3. [Database Creation and Queries with PostgreSQL](https://mcfeenix.github.io/Database-Creation-and-Queries-with-PostgreSQL/)
+### 4. [E-commerce Analysis](https://github.com/Mcfeenix/E-commerce-Analysis.git)
 <!--
 **Mcfeenix/Mcfeenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
