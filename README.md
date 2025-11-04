@@ -1,6 +1,8 @@
 ### These projects showcase my data analysis skills and approach to solving real-world business problems. Feel free to explore—and I’d love to connect if you’re interested in learning more!
 
 ### [E-commerce Analysis](https://github.com/Mcfeenix/E-commerce-Analysis.git)
+
+### [Health Insurance Claims Analysis](https://github.com/Mcfeenix/Health-Insurance-Campaigns-Analysis.git)
 <!--
 **Mcfeenix/Mcfeenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
