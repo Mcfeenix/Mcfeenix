@@ -1,4 +1,4 @@
-### These are some of the data analysis projects that I have worked on to demonstrate my skills to potential employers. Please explore, and I hope to hear from you soon!
+### These projects showcase my data analysis skills and approach to solving real-world business problems. Feel free to explore—and I’d love to connect if you’re interested in learning more!
 
 ### [E-commerce Analysis](https://github.com/Mcfeenix/E-commerce-Analysis.git)
 <!--
