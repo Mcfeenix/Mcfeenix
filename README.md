@@ -2,7 +2,7 @@
 
 ### [E-commerce Analysis](https://github.com/Mcfeenix/E-commerce-Analysis.git)
 
-### [Health Insurance Claims Analysis](https://github.com/Mcfeenix/Health-Insurance-Campaigns-Analysis.git)
+### [Health Insurance Campaigns Analysis](https://github.com/Mcfeenix/Health-Insurance-Campaigns-Analysis.git)
 <!--
 **Mcfeenix/Mcfeenix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
